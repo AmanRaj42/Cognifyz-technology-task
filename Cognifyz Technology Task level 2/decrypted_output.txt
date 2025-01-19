@@ -1,0 +1,1 @@
+hello every one its an example file to showcase the use of file encryption or decryption
